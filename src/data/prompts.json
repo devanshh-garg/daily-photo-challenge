@@ -1,0 +1,112 @@
+{
+  "prompts": [
+    {
+      "id": "color-1",
+      "prompt": "Something Red",
+      "category": "Colors",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "color-2",
+      "prompt": "Monochrome Magic",
+      "category": "Colors",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "color-3",
+      "prompt": "Rainbow in the mundane",
+      "category": "Colors",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "light-1",
+      "prompt": "Golden Hour Glow",
+      "category": "Lighting",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "light-2",
+      "prompt": "Dramatic Shadows",
+      "category": "Lighting",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "light-3",
+      "prompt": "Backlighting",
+      "category": "Lighting",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "comp-1",
+      "prompt": "Leading Lines",
+      "category": "Composition",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "comp-2",
+      "prompt": "Rule of Thirds",
+      "category": "Composition",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "comp-3",
+      "prompt": "Symmetry",
+      "category": "Composition",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "subj-1",
+      "prompt": "Street Art",
+      "category": "Subjects",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "subj-2",
+      "prompt": "Architecture Detail",
+      "category": "Subjects",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "subj-3",
+      "prompt": "Nature macro",
+      "category": "Subjects",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "emot-1",
+      "prompt": "Capture Joy",
+      "category": "Emotions",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "emot-2",
+      "prompt": "Solitude",
+      "category": "Emotions",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "emot-3",
+      "prompt": "Movement",
+      "category": "Emotions",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "abst-1",
+      "prompt": "Texture Close-up",
+      "category": "Abstract",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "abst-2",
+      "prompt": "Reflections",
+      "category": "Abstract",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "abst-3",
+      "prompt": "Patterns",
+      "category": "Abstract",
+      "difficulty": "intermediate"
+    }
+  ]
+} 
