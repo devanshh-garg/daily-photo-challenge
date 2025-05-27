@@ -31,7 +31,7 @@ A React-based web application that encourages users to take daily photos based o
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/daily-photo-challenge.git
+git clone https://github.com/devanshh-garg/daily-photo-challenge.git
 cd daily-photo-challenge
 ```
 
